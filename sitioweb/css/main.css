@@ -1,0 +1,59 @@
+.carousel-inner {
+    max-height:45rem;
+
+}
+
+.mapa {
+    background: url(../img/mapa.jpg);
+    width: 3500px;
+    height: 860px;
+    display: flex;
+}
+
+#local {
+
+background: #eb9e2c;
+padding-bottom: 300px;
+display: flex;
+justify-content: center;
+height: 870px;
+
+}
+
+
+#encabezado {
+    margin-left: 100px;
+    border-bottom: 2px solid #DC6E57;
+}
+
+
+
+.nosotrostitulo {
+
+width: 50%;
+margin-left: 100px;
+padding-top: 150px;
+color: black;
+text-align: center;
+}
+
+.nosotrostexto{
+
+margin: 100px;
+
+}
+
+
+footer {
+    background: #d66315;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
